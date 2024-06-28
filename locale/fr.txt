@@ -1,0 +1,26 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = bossuet
+
+## Skin
+
+### Label
+label4056.text = bossuet
+
+## Media
+
+### Title
+panorama_520F9FF8_5E37_F7DA_41CE_F08089EE3228.label = 2
+panorama_521030EC_5E37_A9FA_41D2_141F1B374412.label = 3
+panorama_53B21277_5E37_E8D6_41A6_94F9CD759FB6.label = salle
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://linktr.ee/t3_architecture
+LinkBehaviour_A99CB470_BF24_034B_41D8_32775ADC450A.source = https://linktr.ee/t3_architecture
